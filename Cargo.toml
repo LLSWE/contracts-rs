@@ -12,3 +12,4 @@ uuid= {version="1", features=["v4", "serde"] }
 tera = "1.20.1"
 tokio = "1.50.0"
 tokio-postgres = "0.7.16"
+
